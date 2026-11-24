@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "F:/AWK/New folder"
+		},
+		{
+			"path": "F:/AWK/belajar python"
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
